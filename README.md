@@ -1,4 +1,4 @@
-# YouTube Comment Sentiment Analyzer
+# ▶️ YouTube Comment Sentiment Analyzer
 
 A powerful web application that analyzes the sentiment of YouTube video comments using Python, FastAPI, and natural language processing techniques. Visualize sentiment distribution, polarity trends, and common words to gain insights from user feedback.
 
